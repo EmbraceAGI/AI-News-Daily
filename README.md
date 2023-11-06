@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-11-06 [    全新5G芯片天玑9300发布 🚀;    Elon Musk的Grok聊天机器人：了解xAI的ChatGPT竞争对手 😎;    AI突破：'Mika'成为Dictador首位机器人CEO 🤖👨‍💼;    OpenAI准备推出自定义GPT4聊天机器人创作者 🤖](History/20231106.md)
 - 2023-11-05 [    如何AI帮助甲壳虫制作‘Now and Then’专辑 🎵;    OpenAI首届开发者大会：ChatGPT Gizmo曝光 🤖;    GPT4震撼登场，32k上下文！OpenAI首届开发者大会最新爆料，定制UI和xAI大模型 👑;    AI「脑补」画面超强！李飞飞团队新作ZeroNVS，全景生成 👁️](History/20231105.md)
 - 2023-11-03 ['🚀 Redefining the Digital Age: The AIDriven Evolution in Marketing';'🤖 A ChatGPT Update Could Wreck a Bunch of AI Startups';'🌊 美国 AI 公司将打造漂浮在海上的计算平台，可容纳 10000 个英伟达 H100 GPU';'👥 LinkedIn Reaches 1 Billion Members, Unveils AI Job Search Tools via @sejournal, @MattGSouthern'](History/20231103.md)
 
