@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-11-10 [    OpenAI宣布最新型号 GPT4 Turbo，揭示关键特性 🚀;    OpenAI GPT4 Turbo 引发社交媒体70%激增讨论，GlobalData 报告详细数据 💬;    ChatGPT 工程师年薪曝光，中位数高达 92.5 万美元 💼;    腾讯蒋杰：坚持用技术服务应用，腾讯混元大模型已接入180多个业务 🌐](History/20231110.md)
 - 2023-11-09 [    '如何使用 GoCharlie AI 提升您的数字体验 😊';    'Captain Laserhawk 的 Adi Shankar 谈多元宇宙、人工智能和 Rayman 宣传 🌌';    'OpenAI 最新公告对企业业务的意义 📢';    'Commvault 联手领先的安全和人工智能公司... PR Newswire'](History/20231109.md)
 - 2023-11-08 [    OpenAI主题演讲 😃;    OpenAI DevDay 2023：重大公告 😃;    GPT4 Turbo：OpenAI以低成本发布最强大的AI视觉 😃;    4.5亿年前的生物在软体机器中找到新生命 😃](History/20231108.md)
 - 2023-11-06 [    全新5G芯片天玑9300发布 🚀;    Elon Musk的Grok聊天机器人：了解xAI的ChatGPT竞争对手 😎;    AI突破：'Mika'成为Dictador首位机器人CEO 🤖👨‍💼;    OpenAI准备推出自定义GPT4聊天机器人创作者 🤖](History/20231106.md)
