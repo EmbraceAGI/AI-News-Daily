@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-11-11 [揭开 Elicit AI：用AI改变研究 🕵️‍♂️;数据在机器学习中的重要性：推动AI革命 💡;Google的Bard AI说它害怕埃隆·马斯克的竞争对手叫做Grok。其他聊天机器人有何感受。 🤖;使用GPTs，OpenAI的无代码个人AI应用构建器 🛠️](History/20231111.md)
 - 2023-11-10 [    OpenAI宣布最新型号 GPT4 Turbo，揭示关键特性 🚀;    OpenAI GPT4 Turbo 引发社交媒体70%激增讨论，GlobalData 报告详细数据 💬;    ChatGPT 工程师年薪曝光，中位数高达 92.5 万美元 💼;    腾讯蒋杰：坚持用技术服务应用，腾讯混元大模型已接入180多个业务 🌐](History/20231110.md)
 - 2023-11-09 [    '如何使用 GoCharlie AI 提升您的数字体验 😊';    'Captain Laserhawk 的 Adi Shankar 谈多元宇宙、人工智能和 Rayman 宣传 🌌';    'OpenAI 最新公告对企业业务的意义 📢';    'Commvault 联手领先的安全和人工智能公司... PR Newswire'](History/20231109.md)
 - 2023-11-08 [    OpenAI主题演讲 😃;    OpenAI DevDay 2023：重大公告 😃;    GPT4 Turbo：OpenAI以低成本发布最强大的AI视觉 😃;    4.5亿年前的生物在软体机器中找到新生命 😃](History/20231108.md)
