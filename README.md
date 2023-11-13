@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-11-13 [英特尔CEO期待AI主导个人电脑市场，计划到2025年融合10亿台电脑 🖥️;Eagle 4.0 beta公测版发布！新增插件系统：AI放大、去背，Pinterest图像搜搜等 🦅;AMD助威AI：官宣将在12月7日举办特别活动，推出MI300X GPU 🚀;工程师在寻找故障方面的任务 😊](History/20231113.md)
 - 2023-11-11 [揭开 Elicit AI：用AI改变研究 🕵️‍♂️;数据在机器学习中的重要性：推动AI革命 💡;Google的Bard AI说它害怕埃隆·马斯克的竞争对手叫做Grok。其他聊天机器人有何感受。 🤖;使用GPTs，OpenAI的无代码个人AI应用构建器 🛠️](History/20231111.md)
 - 2023-11-10 [    OpenAI宣布最新型号 GPT4 Turbo，揭示关键特性 🚀;    OpenAI GPT4 Turbo 引发社交媒体70%激增讨论，GlobalData 报告详细数据 💬;    ChatGPT 工程师年薪曝光，中位数高达 92.5 万美元 💼;    腾讯蒋杰：坚持用技术服务应用，腾讯混元大模型已接入180多个业务 🌐](History/20231110.md)
 - 2023-11-09 [    '如何使用 GoCharlie AI 提升您的数字体验 😊';    'Captain Laserhawk 的 Adi Shankar 谈多元宇宙、人工智能和 Rayman 宣传 🌌';    'OpenAI 最新公告对企业业务的意义 📢';    'Commvault 联手领先的安全和人工智能公司... PR Newswire'](History/20231109.md)
