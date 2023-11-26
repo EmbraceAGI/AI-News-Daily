@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-11-26 五角大楼AI计划加速：全面概述🚀;马斯克：没有我就没有ChatGPT 公司名字都是我起的🚀;GPT成熟之路官方笔记 | OpenAI开发者日📝;HKBN：HKBNES推出AegisConnect AI 2023年11月22日...[  more..](History/20231126.md)
 - 2023-11-25 谁创造了Grok AI？埃隆·马斯克幽默且富有信息的聊天机器人革命🤖;如何使用Krea AI实时绘画功能？🎨;微软Copilot AI是什么：释放效率🚀;Avatarly AI头像制作：释放创造力✨[  more..](History/20231125.md)
 - 2023-11-24 OpenAI在ChatGPT中推出新的令人兴奋的功能 😃;OpenAI的所有者是谁？ 🤔;AI将自我毁灭并导致模型崩溃 💥;Magnific AI：用深度学习改变图像增强 🌟[  more..](History/20231124.md)
 - 2023-11-23 山姆·奥特曼的品牌比以往任何时候都更强大，这就是为什么OpenAI会没事 😎;如何设置OpenAI反向代理？ 🤖;OpenAI的戏剧反映了人工智能的关键时刻 🎭;CrowdStrike在亚马逊商业平台上推出，为中小企业带来基于人工智能的网络安全 🛡️[  more..](History/20231122.md)
