@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-02 A year with ChatGPT and product innovation: Navigating the AI landscape 🌐;Notedly AI Review: Details, Pricing, How To Use &amp; Features 📝💰;Scientists use A.I.generated images to map visual functions in the brain 🧠🖼️;2D material reshapes 3D electronics for AI hardware ⚙️🔄[  more..](History/20231202.md)
 - 2023-12-01 'ChatGPT如何在短短一年内改变了世界' 😲;'西丽湖论坛：探讨大型模型下的「AI 应用」与「可信 AI」' 🤔;'LLM准确率飙升27%！谷歌DeepMind提出全新「后退一步」提示技术' 🚀;'ChatGPT一周年，Altman霸气重返OpenAI！自曝回归内幕Ilya去向待定' 🎉[  more..](History/20231201.md)
 - 2023-11-30 'ChatGPT如何在短短一年内改变了世界' 😲;'西丽湖论坛：探讨大型模型下的「AI 应用」与「可信 AI」' 🤔;'LLM准确率飙升27%！谷歌DeepMind提出全新「后退一步」提示技术' 🚀;'ChatGPT一周年，Altman霸气重返OpenAI！自曝回归内幕Ilya去向待定' 🎉[  more..](History/20231130.md)
 - 2023-11-29 'Skybox AI是如何工作的：用AI打造沉浸式环境' 😎;'前苹果AI研究员组建了机器学习团队，帮助加速电池技术发展' 👨‍🔬;'如何让机器人更智能？编程让它知道它不知道的东西' 🤖;'在生成AI时代的创造力：创意合作的新时代' 🎨[  more..](History/20231129.md)
