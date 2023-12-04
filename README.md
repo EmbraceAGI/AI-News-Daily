@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-04 什么是 AI PC（人工智能电脑） 😮;New AI Video App by Pika Labs Makes a Big Splash, Boosts Chinese Company’s Stock 🚀;研究结果显示，向 ChatGPT 提问时承诺提供“小费”会得到更详细回复 💬;IP工具箱：开源 IP 信息查看器，使用 AI 写了 70% 代码，上线12天，GitHub 已获 900+ 星 ⭐[  more..](History/20231204.md)
 - 2023-12-02 OpenAI宫斗终极揭秘！内鬼女董事被曝抢先开除Altman，微软反成最大赢家 🕵️‍♀️;三星 Galaxy S24 UItra 手机曝光：新增黄色、主打 AI、采用钛金属、VC 均热板大 90% 📱🎨;跨语种「AI同传」震撼登场！Meta谷歌连发重大突破，颠覆语音翻译 🌐🗣️;AI 同声传译新突破，谷歌发布 Translatotron 3 模型：可绕过文本转换步骤 🔄🗣️[  more..](History/20231202.md)
 - 2023-12-01 A year with ChatGPT and product innovation: Navigating the AI landscape 🌐;Notedly AI Review: Details, Pricing, How To Use &amp; Features 📝💰;Scientists use A.I.generated images to map visual functions in the brain 🧠🖼️;2D material reshapes 3D electronics for AI hardware ⚙️🔄[  more..](History/20231201.md)
 - 2023-11-30 'ChatGPT如何在短短一年内改变了世界' 😲;'西丽湖论坛：探讨大型模型下的「AI 应用」与「可信 AI」' 🤔;'LLM准确率飙升27%！谷歌DeepMind提出全新「后退一步」提示技术' 🚀;'ChatGPT一周年，Altman霸气重返OpenAI！自曝回归内幕Ilya去向待定' 🎉[  more..](History/20231130.md)
