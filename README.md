@@ -7,9 +7,8 @@
 
 ## 每日更新
 
-- 2023-12-06 微软宣布 Copilot 下一步计划，将支持 GPT4 Turbo 和新的 DALLE 3 模型，视频摘要已上线，同时推出 Bing“深度搜索” 💻🚀;如何使用午休AI？🍱🤖;2023年来自谷歌、Meta、微软等的十篇重要AI研究论文排行榜 📚🔍;GenAI前沿：2023年从LLaMA到GPT4的十篇变革性LLM研究论文 🌐🔬[  more..](History/20231206.md)
-- 2023-12-06 Microsoft Announces GPT4 Turbo Coming Soon to Copilot, A New DallE 3 Model, Video Summary Now Live + Introducing Bing “Deep Search” 🚀👾;Top 10 Influential AI Research Papers in 2023 from Google, Meta, Microsoft, and More 📑🔍;The GenAI Frontier: 10 Transformative LLM Research Papers of 2023 from LLaMA to GPT4 🌐🔬;Overcoming the ‘last mile problem’ in knowledge management from AI vendors 🧠💡[  more..](History/20231206.md)
 
+- 2023-12-06 微软宣布 Copilot 下一步计划，将支持 GPT4 Turbo 和新的 DALLE 3 模型，视频摘要已上线，同时推出 Bing“深度搜索” 💻🚀;如何使用午休AI？🍱🤖;2023年来自谷歌、Meta、微软等的十篇重要AI研究论文排行榜 📚🔍;GenAI前沿：2023年从LLaMA到GPT4的十篇变革性LLM研究论文 🌐🔬[  more..](History/20231206.md)
 - 2023-12-05 OpenAI Prepares for GPT6 and GPT7 Launch: Trademarks Applied in China 🚀;NeurIPS 2023｜北京大学提出类别级6D物体位姿估计新范式，取得新SOTA 🏆;Meta 推出 Seamless Communication AI 翻译套件：支持近百种语言输入、同声延迟仅 2 秒 🌐;Meta 推出 AI 音频模型 Audiobox：支持语音及文字同时输入、可生成多层次声音 🎙️[  more..](History/20231205.md)
 - 2023-12-04 什么是 AI PC（人工智能电脑） 😮;New AI Video App by Pika Labs Makes a Big Splash, Boosts Chinese Company’s Stock 🚀;研究结果显示，向 ChatGPT 提问时承诺提供“小费”会得到更详细回复 💬;IP工具箱：开源 IP 信息查看器，使用 AI 写了 70% 代码，上线12天，GitHub 已获 900+ 星 ⭐[  more..](History/20231204.md)
 - 2023-12-02 OpenAI宫斗终极揭秘！内鬼女董事被曝抢先开除Altman，微软反成最大赢家 🕵️‍♀️;三星 Galaxy S24 UItra 手机曝光：新增黄色、主打 AI、采用钛金属、VC 均热板大 90% 📱🎨;跨语种「AI同传」震撼登场！Meta谷歌连发重大突破，颠覆语音翻译 🌐🗣️;AI 同声传译新突破，谷歌发布 Translatotron 3 模型：可绕过文本转换步骤 🔄🗣️[  more..](History/20231202.md)
