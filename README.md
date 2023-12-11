@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-11 '欧盟AI监管谈判历39小时达成“里程碑协议” 直指ChatGPT和谷歌Bard' 🌐🤝;'Google承认编辑Gemini AI演示视频，非实际效果' 📽️🚫;'OpenAI科学家：大模型幻觉是天生特性，非缺陷' 🤯🧠;'SantaGPT登场！GPT4助你解锁完美圣诞' 🎅✨[  more..](History/20231211.md)
 - 2023-12-10 谷歌在AI领域的下一个大事件模型Gemini超越了ChatGPT 😲;OpenAI“宫斗”正酝酿第二季：Ilya已一周未去公司，且聘请了律师 🤨;Gemini多模态时代开启！DeepMind CEO揭秘超进化体融进AlphaGo，明年面世 🚀;Pika 1.0首测秒杀Gen2！网友抢先体验电影级炸裂效果，背后技术细节首次公开 🎬[  more..](History/20231210.md)
 - 2023-12-09 Meta 实施了20多项生成AI增强功能 🚀;Gemini AI 是否对公众开放？ 🌐;Gemini AI 已发布吗？ 🤔;谷歌更新 Notebook LM AI 笔记应用，加入全新 Gemini Pro 模型 📚[  more..](History/20231209.md)
 - 2023-12-08 'Gemini，谷歌对GPT4的回应，已经到来 🌟';'2024年提升生产力的18款人工智能产品 💼';'2024年网络安全预测：人工智能崛起带来新挑战 🚀';'Bing GPT4深度搜索：释放搜索的力量 🔍'[  more..](History/20231208.md)
