@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-13 OpenAI 重新开放 ChatGPT Plus 订阅，部分用户已收到邀请 📢;Mistral AI 完成了 4.15 亿美元资金募集 🌐💰;Google 推出 Gemini：旨在赢过 GPT4 的 LLM 🚀;华科大发布 AI 大模型猴子：部分超越 GPT4 🐒[  more..](History/20231213.md)
 - 2023-12-12 深度揭秘爆火MoE！GPT4关键架构成为开源模型的逆袭杀手锏 🔍;8x7B开源MoE击败Llama，逼近GPT4！欧版OpenAI震惊AI界，22人公司半年估值20亿 💻💥;Altman回归OpenAI，Ilya Sutskever 处境尴尬！ 🔄😬;卡西欧四十周年纪念黄金手表 GD001 拍卖：AI 参与设计，成交价超过40万美元 💍💰[  more..](History/20231212.md)
 - 2023-12-11 '欧盟AI监管谈判历39小时达成“里程碑协议” 直指ChatGPT和谷歌Bard' 🌐🤝;'Google承认编辑Gemini AI演示视频，非实际效果' 📽️🚫;'OpenAI科学家：大模型幻觉是天生特性，非缺陷' 🤯🧠;'SantaGPT登场！GPT4助你解锁完美圣诞' 🎅✨[  more..](History/20231211.md)
 - 2023-12-10 谷歌在AI领域的下一个大事件模型Gemini超越了ChatGPT 😲;OpenAI“宫斗”正酝酿第二季：Ilya已一周未去公司，且聘请了律师 🤨;Gemini多模态时代开启！DeepMind CEO揭秘超进化体融进AlphaGo，明年面世 🚀;Pika 1.0首测秒杀Gen2！网友抢先体验电影级炸裂效果，背后技术细节首次公开 🎬[  more..](History/20231210.md)
