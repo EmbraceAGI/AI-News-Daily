@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-16 微软AI图像生成器免费 😃;发现字节跳动使用OPENAI API培训AI，账号已被OPENAI暂停 🚨;PaLM 2数学性能暴涨6%！DeepMind新作揭示「合成数据」是通往AGI的关键 📈;OpenAI工程师揭秘ChatGPT开发仅用8天！探秘硅谷顶流如何诞生 🕵️‍♂️[  more..](History/20231216.md)
 - 2023-12-15 谷歌Gemini大杀器官宣免费用！暴打GPT3.5，最强代码生成工具上线，支持20+语言！ 💻🌐;谷歌DeepMind最先进Imagen 2发布，这些AI图片你能辨别吗？ 🖼️🤔;谷歌文生图巅峰之作Imagen 2登场，实测暴打DALL·E 3和Midjourney！ 🖼️🚀;大模型推理效率提升3倍，EAGLE发布！ 滑铁卢大学、北京大学等机构联合研发！ 🚀💻[  more..](History/20231215.md)
 - 2023-12-14 谷歌的Gemini AI瞄准OpenAI和Microsoft的GPT4 🌐;北京互联网法院公审全国首例“AI声音侵权案” ⚖️;CapCut在线照片编辑器 无瑕视觉编辑的首选之处 📸;Guardz筹集1800万美元，扩大面向中小企业的AI安全平台 💰[  more..](History/20231214.md)
 - 2023-12-13 OpenAI 重新开放 ChatGPT Plus 订阅，部分用户已收到邀请 📢;Mistral AI 完成了 4.15 亿美元资金募集 🌐💰;Google 推出 Gemini：旨在赢过 GPT4 的 LLM 🚀;华科大发布 AI 大模型猴子：部分超越 GPT4 🐒[  more..](History/20231213.md)
