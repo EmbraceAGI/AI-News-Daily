@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-20 GPT4.5来了吗？GPT4.5泄露细节 🕵️‍♂️;OpenAI因竞争对手使用ChatGPT而暂停其账户 🤖❌;揭秘智谱AI背后的百亿估值 💰;MindSpore嘉年华再启，多模态勇士静待华为Mate60大奖 🎉🏆[  more..](History/20231220.md)
 - 2023-12-19 OpenAI 工程师自曝开发 ChatGPT 仅用时 8 天 | RTE 开发者日报 Vol.108 🚀📰;去哪儿 & 华为云全面合作签约，深入云计算、AI、数据服务等领域 🌐💻;十余篇微软论文在 NeurIPS 2023 上受关注，做精彩演讲 📄👏;微软宣布为DirectX机器学习框架DirectML明年添加NPU支持，适配英特尔酷睿 Ultra 等 AI 芯片 🎮💻[  more..](History/20231219.md)
 - 2023-12-17 商汤创始人汤晓鸥不在了，他最后关心的是国家实验室 🌹;Ola Krutrim AI网站登录、访问和使用指南 🔐;循环中的鲑鱼 🔄;UC伯克利发现GPT4惊人缺陷：儿童能学因果关系，LLM却不行 🧐[  more..](History/20231217.md)
 - 2023-12-16 微软AI图像生成器免费 😃;发现字节跳动使用OPENAI API培训AI，账号已被OPENAI暂停 🚨;PaLM 2数学性能暴涨6%！DeepMind新作揭示「合成数据」是通往AGI的关键 📈;OpenAI工程师揭秘ChatGPT开发仅用8天！探秘硅谷顶流如何诞生 🕵️‍♂️[  more..](History/20231216.md)
