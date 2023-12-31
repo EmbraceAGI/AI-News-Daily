@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2023-12-31 OpenAI年收入破16亿美元！AI元年英伟达暴涨239%+2024年AI大事件预测 💸🚀🔮;Hugging Face：2023开源LLM大爆发，数据竞赛已开启！ 🤗💻🚀;GitHub Copilot免费试用 👩\u200d💻🆓;AI创造的虚拟网红崛起，真人网红蛋糕被侵蚀 🌐🤖🍰[  more..](History/20231231.md)
 - 2023-12-28 'LG 2024年的QNED电视系列全面倚重AI，尺寸最大达98英寸 📺🤖';'Canalys：手机是设备端AI的重要载体，明年AI手机出货量将达到6000万部，超越AI电脑 📱💼';'Tammy AI是什么？YouTube视频摘要的未来 🤖🎥';'量子AI投资 💹🤖'[  more..](History/20231228.md)
 - 2023-12-27 Life2vec AI能准确预测你的死亡！ ☠️🤖;Microsoft刚推出免费的Copilot应用，由GPT4驱动 🚀📱;Google效仿Paytm因AI自动化而裁员 🔄🤖;奥特曼惹怒开发者！ChatGPT插件被冷落，作者或转向GPTs 😠❄️[  more..](History/20231227.md)
 - 2023-12-26 研究表明 ChatGPT 提供的建议，比专家更全面、更有帮助 🧠💡;太牛叉了！国产 AI 智能体惊艳问世，全面致敬 FastGPT！ 🇨🇳🤖;清华&第四范式&腾讯研究团队：图神经网络与生物医学网络预测药物相互作用 🧪;LLM与药物发现结合，NVIDIA、Mila、Caltech团队发布多模态分子结构文本模型 💊🧬[  more..](History/20231226.md)
