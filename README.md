@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2024-01-06 AI大模型首次与国民级综艺合作，昆仑万维天工AI携手《最强大脑》助力大模型应用 🤖📺;Jeff Bezos和NVIDIA助力Perplexity AI挑战Google搜索 💡🚀;Comscore：2023年19月OpenAI访问量增长127% 📈👀;Character.ai的AI治疗机器人在年轻人中日益受欢迎 🤖💊[  more..](History/20240106.md)
 - 2024-01-04 研究人员刚刚解锁了ChatGPT 🌐;英特尔聘请HPE的Justin Hotard领导数据中心和AI团队 💻;Google Assistant与Bard搭配的样子是这样的！ 🤖;自1994年以来首次变革！微软在PC键盘中新增了AI键 ⌨️[  more..](History/20240104.md)
 - 2024-01-03 免费在线进行AI吸引力测试 🌟;三星Galaxy S24系列由Eureka AI提供动力，将于2024年1月发布 🚀;三星发布Galaxy S24神秘预告：迎接Galaxy AI时代 🌌;2024年AI将为您做什么？必须关注的十大趋势 📈[  more..](History/20240103.md)
 - 2024-01-02 AI绘画侵权国内首例案件宣判 法院判赔500元 ⚖️;糖果AI是否私密？聊天机器人的隐私政策 🤐;用AI赢得销售演讲拉锯战 💼;科技动态：如何使用无审查的AI模型并用你的数据训练它 (1/2/2024) 🚀[  more..](History/20240102.md)
