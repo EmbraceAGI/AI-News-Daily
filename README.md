@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2024-01-07 Perplexity AI募资7360万美元，市值高达5.2亿美元，大胆挑战搜索引擎巨头 💰;AI和卫星图像如何使人类的海洋活动更加透明 🌊;天天讨论AI Agent但从没见过？这里有20个最值得关注的 🔍;更多作家起诉OpenAI和微软：“窃取”他们的作品训练AI模型 📚[  more..](History/20240107.md)
 - 2024-01-06 AI大模型首次与国民级综艺合作，昆仑万维天工AI携手《最强大脑》助力大模型应用 🤖📺;Jeff Bezos和NVIDIA助力Perplexity AI挑战Google搜索 💡🚀;Comscore：2023年19月OpenAI访问量增长127% 📈👀;Character.ai的AI治疗机器人在年轻人中日益受欢迎 🤖💊[  more..](History/20240106.md)
 - 2024-01-04 研究人员刚刚解锁了ChatGPT 🌐;英特尔聘请HPE的Justin Hotard领导数据中心和AI团队 💻;Google Assistant与Bard搭配的样子是这样的！ 🤖;自1994年以来首次变革！微软在PC键盘中新增了AI键 ⌨️[  more..](History/20240104.md)
 - 2024-01-03 免费在线进行AI吸引力测试 🌟;三星Galaxy S24系列由Eureka AI提供动力，将于2024年1月发布 🚀;三星发布Galaxy S24神秘预告：迎接Galaxy AI时代 🌌;2024年AI将为您做什么？必须关注的十大趋势 📈[  more..](History/20240103.md)
