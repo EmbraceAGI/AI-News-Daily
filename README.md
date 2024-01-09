@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2024-01-09 '谷歌母公司旗下Isomorphic获得近30亿美元的有利药品交易 💊💰';'三星在全球各大城市竖起广告牌，预热Galaxy S24系列AI手机 🌍📱';'AI动力地震预测的成功与承诺 🌐🚀';'低耗能高速度，EPFL和微软研究团队的新方法：深度物理神经网络的无反向传播训练 ⚙️🧠'[  more..](History/20240109.md)
 - 2024-01-07 Perplexity AI募资7360万美元，市值高达5.2亿美元，大胆挑战搜索引擎巨头 💰;AI和卫星图像如何使人类的海洋活动更加透明 🌊;天天讨论AI Agent但从没见过？这里有20个最值得关注的 🔍;更多作家起诉OpenAI和微软：“窃取”他们的作品训练AI模型 📚[  more..](History/20240107.md)
 - 2024-01-06 AI大模型首次与国民级综艺合作，昆仑万维天工AI携手《最强大脑》助力大模型应用 🤖📺;Jeff Bezos和NVIDIA助力Perplexity AI挑战Google搜索 💡🚀;Comscore：2023年19月OpenAI访问量增长127% 📈👀;Character.ai的AI治疗机器人在年轻人中日益受欢迎 🤖💊[  more..](History/20240106.md)
 - 2024-01-04 研究人员刚刚解锁了ChatGPT 🌐;英特尔聘请HPE的Justin Hotard领导数据中心和AI团队 💻;Google Assistant与Bard搭配的样子是这样的！ 🤖;自1994年以来首次变革！微软在PC键盘中新增了AI键 ⌨️[  more..](History/20240104.md)
