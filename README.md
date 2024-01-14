@@ -7,6 +7,7 @@
 
 ## 每日更新
 
+- 2024-01-14 AI应用和AI小工具的季节到啦 🌟;OpenAI的ChatGPT正式推出GPT商店 🚀;英伟达在印度获得5亿美元的巨额AI芯片订单 💻💰;OpenAI GPT商店的“AI女友”上线三天就已经风靡全场 😄❤️[  more..](History/20240114.md)
 - 2024-01-13 OpenAI透露迄今为止有多少企业客户使用ChatGPT 📊;微软计划在部分Windows 11设备上默认启动Copilot AI系统 🖥️;谷歌千人被裁引发硅谷裁员潮！27家公司宣布裁员，90%大厂码农工作受到AI冲击 📉;0108 0112 早早聊 AI 资讯：GPT Store正式上线，超过300万个应用可玩！、微软高管加入OpenAI董事会、全球首个汽车... 🌐[  more..](History/20240113.md)
 - 2024-01-12 荣耀Magic6系列发布，支持卫星通信，保时捷设计折叠屏震撼登场 🚀📱;Broadridge推出GenAI驱动的OpsGPT，优化T+1环境中的交易 🌐💹;口袋AI设备Rabbit R1首批秒售罄，一天卖出1万台 🐰💻;Google Cloud推出新一代AI产品，服务零售行业 🌐🛍️[  more..](History/20240112.md)
 - 2024-01-11 '数字标牌顾问GPT在OpenAI的GPT商店发布 🚀';'全球首款双电池双电机电动自行车搭载ChatGPT，售价超过3万元 🚴';'成为生成式AI开发者的4个步骤 🧑‍💻';"AskAI获得1100万美元以推动客户支持等，通过'ASK' Chrome扩展 💸"[  more..](History/20240111.md)
